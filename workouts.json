@@ -2,7 +2,7 @@
   "course": "Средний уровень. Тренинг от чемпиона.",
   "source": "esbi-sport.ru",
   "course_url": "https://esbi-sport.ru/members/courses/champion-fitness-boost-2",
-  "total_exercises": 99,
+  "total_exercises": 100,
   "sections": [
     {
       "id": "s1",
@@ -817,6 +817,19 @@
           "video_url": "https://rutube.ru/embed/aa9e32c558807be4c0918f91dab15738?p=7xgmR2Zmda5eyaLNJGic3A",
           "url": "https://esbi-sport.ru/members/courses/champion-fitness-boost-2/8-mahi-izza-spiny-v-niznem-krossovere-945327956957",
           "description": "Махи из-за спины в нижнем кроссовере одной рукой\n\n— изолирующее упражнение, направленное на проработку среднего и заднего пучка дельтовидной мышцы плечевого пояса.\n\nТехника выполнения\n\n1.закрепить каретку кроссовера на самый нижний уровень.\n\n2.корпус держим ровно, рукоятка и трос проходят сзади, рука образует небольшой угол в локтевом суставе.\n\n3.на выдохе выполняем подъём (мах) до параллели руки с плечём, важно не менять угол локтевого сустава.\n\nРежим работы в этом упражнении\n\nмежду подходами состовляет 45-60 секунд."
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "title": "Тренировочный план",
+      "exercises": [
+        {
+          "number": "17.1",
+          "title": "Как двигаемся дальше",
+          "equipment": "Как двигаемся дальше",
+          "url": "https://esbi-sport.ru/members/courses/champion-fitness-boost-2/kak-dvigaemsa-dalse-444036701267",
+          "description": "Дальше пройдём план из 4 тренировок 2 круга по порядку."
         }
       ]
     }
